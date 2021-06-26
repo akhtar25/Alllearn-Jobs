@@ -1,0 +1,56 @@
+.container {
+  text-align: center;
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.colplacement {
+  margin-left: 10%;
+}
+
+.headingBar {
+  padding: 1px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  background-color: #4caf50 !important;
+  text-align: center;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%),
+    0 1px 5px 0 rgb(0 0 0 / 20%);
+  color: #ffffff !important;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.profileImg {
+  max-width: 70%;
+  height: auto;
+}
+
+.td {
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.profileName {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.section {
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.subHeading {
+  font-size: 15px;
+}
+
+.details {
+  font-size: 13px;
+}

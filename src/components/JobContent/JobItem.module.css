@@ -1,0 +1,36 @@
+.header {
+  font-weight: 500;
+  color: grey;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.item {
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.imgpos {
+  margin-top: 18px;
+  margin-left: 18px;
+}
+
+.linkBtn {
+  text-decoration: none;
+  color: #3c8dbc !important;
+}
+
+/* .column {
+  padding-left: 20px !important;
+} */
+
+.btn {
+  margin: auto !important;
+}
+
+.padding {
+  padding: 10px;
+}

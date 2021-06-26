@@ -1,0 +1,32 @@
+.container {
+  text-align: center;
+  width: 84% !important;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.heading {
+  text-align: left;
+  font-size: 18px;
+}
+
+.textData {
+  text-align: center;
+  color: grey;
+  font-size: 14px;
+}
+
+.spinner {
+  height: 483px;
+  width: 100%;
+  padding-top: 12%;
+  padding-left: 35%;
+}
+
+.th {
+  font-size: 12px;
+}
+
+.td {
+  font-size: 12px;
+}

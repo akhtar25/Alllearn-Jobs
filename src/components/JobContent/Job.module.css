@@ -1,0 +1,15 @@
+.job ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.loading {
+  margin-top: 130px;
+  margin-left: 272px;
+  overflow-y: hidden;
+}
+
+.unorderList {
+  overflow-x: hidden;
+}

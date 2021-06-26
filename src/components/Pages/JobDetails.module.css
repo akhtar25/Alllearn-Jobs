@@ -1,0 +1,132 @@
+.content {
+  width: 80%;
+  margin: auto;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-top: 20px;
+}
+
+.container {
+  text-align: center;
+  width: 80%;
+  margin-top: 30px;
+}
+
+.colplacement {
+  margin-left: 15%;
+}
+
+.text {
+  font-weight: BOLD;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.headingBar {
+  padding: 1px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  background-color: #4caf50 !important;
+  text-align: center;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%),
+    0 1px 5px 0 rgb(0 0 0 / 20%);
+  color: #ffffff !important;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.spinner {
+  height: 483px;
+  width: 100%;
+  padding-top: 12%;
+  padding-left: 35%;
+}
+
+.box {
+  margin-left: 7% !important;
+}
+
+.imageBlock {
+  text-align: center;
+}
+
+.greyText {
+  font-size: 20px;
+  color: #9e9e9e !important;
+}
+
+.leftItems {
+  text-align: left;
+}
+
+.link {
+  float: right;
+  color: green;
+}
+
+.tableContent {
+  font-size: 15px;
+  font-family: Arial;
+  line-height: 40px;
+}
+
+.classBox {
+  line-height: 30px;
+}
+
+/* .loading {
+  margin-left: 500px;
+  margin-top: 170px;
+  margin-bottom: 161px;
+} */
+
+.floatLeft {
+  float: left;
+}
+
+.tdData {
+  text-align: left;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.tdRight {
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.tdRightCheck {
+  font-size: 14px;
+  color: green;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.tdRightClear {
+  font-size: 14px;
+  color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.td {
+  font-size: 12px;
+  text-align: left;
+}
+
+.tdh {
+  font-size: 12px;
+  width: 35%;
+  text-align: left;
+}
+
+.link {
+  text-decoration: none;
+}
